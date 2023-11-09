@@ -1,4 +1,6 @@
-# Certificates for The Carpentries
+# Certificates for AstroPy
+
+Adapted from Certificates for The Carpentries
 
 
 There are two ways to build certificates from this repo, one depends on the python package cairosvg which in turn depends on cairo development libraries being installed. To use this method, use `bin/certificates.py` to build certificates.
