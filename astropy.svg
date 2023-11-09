@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
-<svg version="1.1" width="792" height="612" viewBox="0 0 792 612" id="Layer_1" xmlns="http://www.w3.org/2000/svg">
-  <defs id="defs8818">
+<svg viewBox="0 0 500 500" xmlns="http://www.w3.org/2000/svg">
+  <defs>
     <defs id="defs11">
       <rect id="SVGID_1_" y="12.472" x="8.9960003" height="88.952003" width="94.088997"/>
     </defs>
@@ -8,8 +8,8 @@
       <path d="m 97.635,57.893 c 0,24.043 -19.487,43.531 -43.529,43.531 -24.041,0 -43.53,-19.488 -43.53,-43.531 0,-24.04 19.489,-43.529 43.53,-43.529 24.041,0 43.529,19.489 43.529,43.529" id="SVGID_3_-0" style="opacity:0.75"/>
     </defs>
   </defs>
-  <rect width="762.66498" height="577.57501" x="14.829" y="15.312" id="rect6890" style="fill:#f1f2f2"/>
-  <g id="g6892">
+  <rect width="762.665" height="577.575" x="-211.751" y="-73.753" id="rect6890" style="fill:#f1f2f2"/>
+  <g id="g6892" transform="matrix(1, 0, 0, 1, -226.580093, -89.065048)">
     <g id="g6894">
       <path d="m 773.936,154.173 c -234.081,65.305 -601.653,-74.398 -755.551,0" id="path6896" style="fill:none;stroke:#ffffff;stroke-width:0.82660002;stroke-miterlimit:10"/>
       <path d="m 773.936,159.542 c -236.724,66.208 -602.674,-74.75 -755.551,0" id="path6898" style="fill:none;stroke:#ffffff;stroke-width:0.82660002;stroke-miterlimit:10"/>
@@ -65,13 +65,13 @@
       <path d="m 773.936,428.023 c -368.824,111.367 -653.731,-92.355 -755.551,0" id="path6998" style="fill:none;stroke:#ffffff;stroke-width:0.82660002;stroke-miterlimit:10"/>
     </g>
   </g>
-  <g id="g7030" transform="translate(-47,-11)">
+  <g id="g7030" transform="matrix(1, 0, 0, 1, -273.580109, -100.065048)">
     <rect width="518.09802" height="248.99699" x="137.112" y="316.25101" id="rect7032" style="fill:none"/>
-    <text transform="translate(137.1107,326.2737)" id="text7034" style="line-height: 0%; white-space: pre;"><tspan x="0" y="0" id="tspan7036" style="font-size:14px;font-family:ArialMT;fill:#808285">This certificate has been awarded for successfully attending {{workshop}}</tspan><tspan x="0" y="118" id="tspan7044" style="font-size:14px;font-family:ArialMT;fill:#808285">Recipient: {{name}}</tspan><tspan x="0" y="143.60001" id="tspan90" style="font-size:14px;font-family:ArialMT;fill:#808285">Date of Award: {{date}}</tspan><tspan x="0" y="169.2" id="tspan7046" style="font-size:14px;font-family:ArialMT;fill:#808285">Certified by:  {{instructor}}</tspan></text>
+    <text id="text7034" style="line-height: 0%; white-space: pre;" x="137.112" y="345.16"><tspan x="137.112" y="345.16" id="tspan7036" style="font-size: 14px; font-family: ArialMT; fill: rgb(128, 130, 133); word-spacing: 0px;">This certificate has been awarded for successfully attending {{workshop}}</tspan><tspan x="137.112" y="463.16" id="tspan7044" style="font-size: 14px; font-family: ArialMT; fill: rgb(128, 130, 133); word-spacing: 0px;">Recipient: {{name}}</tspan><tspan x="137.112" y="488.76" id="tspan90" style="font-size: 14px; font-family: ArialMT; fill: rgb(128, 130, 133); word-spacing: 0px;">Date of Award: {{date}}</tspan><tspan x="137.112" y="514.36" id="tspan7046" style="font-size: 14px; font-family: ArialMT; fill: rgb(128, 130, 133); word-spacing: 0px;">Certified by:  {{instructor}}</tspan></text>
   </g>
-  <g id="g3024"/>
-  <g id="g3048"/>
-  <g id="g7104">
+  <g id="g3024" transform="matrix(1, 0, 0, 1, -226.580093, -89.065048)"/>
+  <g id="g3048" transform="matrix(1, 0, 0, 1, -226.580093, -89.065048)"/>
+  <g id="g7104" transform="matrix(1, 0, 0, 1, -226.580093, -89.065048)">
     <g id="g7106">
       <g id="g7108">
         <g id="g7110">
@@ -825,7 +825,7 @@
       </g>
     </g>
   </g>
-  <g id="g8224">
+  <g id="g8224" transform="matrix(1, 0, 0, 1, -226.580093, -89.065048)">
     <rect width="4.6669998" height="40.932999" x="753.76001" y="531.315" id="rect8226" style="fill:#ffffff"/>
     <rect width="40.932999" height="4.6669998" x="717.49402" y="567.58099" id="rect8228" style="fill:#ffffff"/>
     <rect width="40.932999" height="4.6669998" x="33.893002" y="565.24298" id="rect8230" style="fill:#ffffff"/>
@@ -873,13 +873,13 @@
     <rect width="40.933998" height="4.6669998" x="600.55603" y="565.24298" id="rect8314" style="fill:#ffffff"/>
     <rect width="40.933998" height="4.6669998" x="657.22198" y="565.24298" id="rect8316" style="fill:#ffffff"/>
   </g>
-  <g id="g3070_1_" transform="matrix(0.94397633,0,0,0.93320339,413.30007,566.50589)">
+  <g id="g3070_1_" transform="matrix(0.943976, 0, 0, 0.933204, 186.719986, 477.440887)">
     <path style="fill:none;stroke:#ffffff;stroke-width:1.0704;stroke-linejoin:round;stroke-miterlimit:10" id="path3072_1_" d="m -61.955,-354.134 h 87.259 l -2.13,6.917 h -82.202 l -2.927,-6.917 z"/>
   </g>
-  <g style="opacity:0.75" id="g3048_1_" transform="matrix(1.3117384,0,0,1.2923146,325.08109,130.02566)"/>
-  <text font-size="36" id="text7452" x="167.68169" y="107.31479" style="font-size: 36px; line-height: 0%; font-family: Arial-BoldMT; fill: rgb(65, 64, 66); white-space: pre;">Certificate of Achievement</text>
-  <path style="fill:#ffffff;stroke:none" d="m 556.05322,447.33422 0,1 c 1.6424,0 3.3948,0.1822 5,-0.2 l 0,-0.4 c -1.584,-0.5932 -3.3334,-0.4 -5,-0.4 m 16.4,0 0,1.4 c 1.37,0 4.7026,0.5826 5,-1.2 -1.6712,-0.2112 -3.3158,-0.2 -5,-0.2 m 64.4,0 0,1 c 1.2534,0 4.5062,0.6044 5,-0.8 -1.6712,-0.2112 -3.3158,-0.2 -5,-0.2 m -95.2,1.4 -0.6,1.2 1.4,0 c -0.2094,-0.4932 -0.4232,-0.8192 -0.8,-1.2 z" id="path3596"/>
-  <g id="Layer 1" transform="matrix(1, 0, 0, 1, 326.115143, 126.858849)">
+  <g style="opacity:0.75" id="g3048_1_" transform="matrix(1, 0, 0, 1, -226.580093, -89.065048)"/>
+  <text font-size="36" id="text7452" x="-58.898" y="18.25" style="font-size: 36px; line-height: 0%; font-family: Arial-BoldMT; fill: rgb(65, 64, 66); white-space: pre;">Certificate of Achievement</text>
+  <path style="fill:#ffffff;stroke:none" d="M 329.473 358.269 L 329.473 359.269 C 331.116 359.269 332.868 359.451 334.473 359.069 L 334.473 358.669 C 332.889 358.076 331.14 358.269 329.473 358.269 M 345.873 358.269 L 345.873 359.669 C 347.243 359.669 350.576 360.252 350.873 358.469 C 349.202 358.258 347.557 358.269 345.873 358.269 M 410.273 358.269 L 410.273 359.269 C 411.527 359.269 414.779 359.874 415.273 358.469 C 413.602 358.258 411.957 358.269 410.273 358.269 M 315.073 359.669 L 314.473 360.869 L 315.873 360.869 C 315.664 360.376 315.45 360.05 315.073 359.669 Z" id="path3596"/>
+  <g id="Layer 1" transform="matrix(1, 0, 0, 1, 73.953056, 38.908627)">
     <g id="Group">
       <linearGradient x1="80.2869" y1="-11.3674" x2="81.0647" y2="162.509" gradientUnits="userSpaceOnUse" id="2">
         <stop style="stop-color:#ffa900;stop-opacity:1;"/>
